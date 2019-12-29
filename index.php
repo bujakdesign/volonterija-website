@@ -8,7 +8,8 @@
   </head>
   <body>
 
-
+    <h1>Volonterija</h1>
+    <h4>Zabavi se ozbiljno</h4>
 
     <script src="assets/js/script.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
