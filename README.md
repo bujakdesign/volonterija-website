@@ -1,6 +1,6 @@
 # Volonterija - Zabavi se ozbiljno.
 
-Šta je to "Volonterija"?
+Šta je to "Volonterija"? // 
 "Volonterija" je web platfoma koja ima za zadatak da poveže NVO i volontere.
 Korisnik će moći na toj platformi da se registruje kao NVO ili kao volonter i
 u skladu sa tim da zadovolji svoje potrebe.
